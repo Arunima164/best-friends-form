@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Neucha&display=swap');
+
+body {
+    font-family: 'Itim', cursive;
+    font-size: larger;
+    background-image: url("https://i1.faceprep.in/ProGrad/minion-background.png");
+    background-size: 100% 110%;
+}
+
+section {
+    width: 500px;
+    background-color: white;
+    margin: auto;
+    padding: 10px 0;
+}
+
+div {
+    text-align: center;
+}
+
+p,
+input[type="text"],
+input[type="number"],
+textarea,
+form {
+    width: 350px;
+    padding: 8px;
+}
+
+
+p {
+    margin: auto;
+}
+
+form {
+    margin: auto;
+}
+
+label {
+    font-weight: bold;
+
+}
+
+input,
+textarea {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    display: block;
+    background-color: #ACE7FF;
+    margin: auto;
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+}
